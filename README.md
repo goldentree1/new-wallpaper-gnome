@@ -1,5 +1,5 @@
 # new-wallpaper
-A simple script to randomly select a new wallpaper from personal photos and/or random Unsplash photos. 
+A simple script for GNOME Linux to randomly select a new wallpaper from personal photos and/or random Unsplash photos. 
 
 ## Installation
 1. Run the install script:
